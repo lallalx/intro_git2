@@ -2,3 +2,5 @@
 ・git commit
 ・git tm
 ・git statu
+・git diff
+
