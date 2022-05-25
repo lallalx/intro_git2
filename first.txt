@@ -1,6 +1,4 @@
-sssssss
-Vs,;,sv;,v;s,v;wf
-fvwsvsfsfbf
-Vwvswfslnk
-Giavbfaa¥¥ afa fg gs a as a 
-Bgsbg as 
+・git add
+・git commit
+・git tm
+・git statu
